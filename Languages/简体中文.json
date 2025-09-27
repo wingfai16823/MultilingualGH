@@ -1,1 +1,283 @@
-{"greeting":"你好","farewell":"再见"}
+[
+    {
+        "name": "Point",
+        "translation": "点"
+    },
+    {
+        "name": "Vector",
+        "translation": "向量"
+    },
+    {
+        "name": "Circle",
+        "translation": "圆容器",
+        "category": "Params"
+    },
+    {
+        "name": "Circle",
+        "translation": "创圆"
+    },
+    {
+        "name": "Curve",
+        "translation": "线条"
+    },
+    {
+        "name": "Plane",
+        "translation": "平面"
+    },
+    {
+        "name": "Circular Arc",
+        "translation": "圆弧"
+    },
+    {
+        "name": "Line",
+        "translation": "直线"
+    },
+    {
+        "name": "Rectangle",
+        "translation": "矩形"
+    },
+    {
+        "name": "Box",
+        "translation": "立方体"
+    },
+    {
+        "name": "Mesh",
+        "translation": "网格"
+    },
+    {
+        "name": "Surface",
+        "translation": "面"
+    },
+    {
+        "name": "Brep",
+        "translation": "边界表示几何"
+    },
+    {
+        "name": "Mesh Face",
+        "translation": "网格面"
+    },
+    {
+        "name": "Twisted Box",
+        "translation": "扭曲立方体"
+    },
+    {
+        "name": "Field",
+        "translation": "向量场"
+    },
+    {
+        "name": "Geometry Cache",
+        "translation": "几何缓存"
+    },
+    {
+        "name": "Group",
+        "translation": "分组"
+    },
+    {
+        "name": "Geometry",
+        "translation": "几何"
+    },
+    {
+        "name": "Geometry Pipeline",
+        "translation": "几何连接"
+    },
+    {
+        "name": "Transform",
+        "translation": "移动"
+    },
+    {
+        "name": "Boolean",
+        "translation": "布尔"
+    },
+    {
+        "name": "Number",
+        "translation": "数字"
+    },
+    {
+        "name": "Integer",
+        "translation": "整数"
+    },
+    {
+        "name": "Text",
+        "translation": "文字"
+    },
+    {
+        "name": "Colour",
+        "translation": "颜色"
+    },
+    {
+        "name": "Culture",
+        "translation": "文化特性"
+    },
+    {
+        "name": "Domain2",
+        "translation": "区间2"
+    },
+    {
+        "name": "Matrix",
+        "translation": "矩阵"
+    },
+    {
+        "name": "Complex",
+        "translation": "复数"
+    },
+    {
+        "name": "Domain",
+        "translation": "区间"
+    },
+    {
+        "name": "Guid",
+        "translation": "识别码"
+    },
+    {
+        "name": "Time",
+        "translation": "时间"
+    },
+    {
+        "name": "Data",
+        "translation": "信息"
+    },
+    {
+        "name": "File Path",
+        "translation": "文件路径"
+    },
+    {
+        "name": "Data Path",
+        "translation": "数据层路径"
+    },
+    {
+        "name": "Shader",
+        "translation": "着色器"
+    },
+    {
+        "name": "Control Knob",
+        "translation": "数值旋钮"
+    },
+    {
+        "name": "Value List",
+        "translation": "清单"
+    },
+    {
+        "name": "Calendar",
+        "translation": "日历"
+    },
+    {
+        "name": "Colour Picker",
+        "translation": "调色"
+    },
+    {
+        "name": "Colour Wheel",
+        "translation": "色环"
+    },
+    {
+        "name": "Graph Mapper",
+        "translation": "图表映射"
+    },
+    {
+        "name": "Clock",
+        "translation": "时钟"
+    },
+    {
+        "name": "Colour Swatch",
+        "translation": "色板"
+    },
+    {
+        "name": "Gradient",
+        "translation": "渐层"
+    },
+    {
+        "name": "Image Sampler",
+        "translation": "图像取样"
+    },
+    {
+        "name": "Import Coordinates",
+        "translation": "导入坐标"
+    },
+    {
+        "name": "Import PDB",
+        "translation": "导入PDB"
+    },
+    {
+        "name": "Object Details",
+        "translation": "对象细节"
+    },
+    {
+        "name": "Import 3DM",
+        "translation": "导入3DM"
+    },
+    {
+        "name": "Import Image",
+        "translation": "导入图片"
+    },
+    {
+        "name": "Import SHP",
+        "translation": "导入SHP"
+    },
+    {
+        "name": "Read File",
+        "translation": "读取文件"
+    },
+    {
+        "name": "Cherry Picker",
+        "translation": "完美单选"
+    },
+    {
+        "name": "Param Viewer",
+        "translation": "显示数据结构"
+    },
+    {
+        "name": "Jump",
+        "translation": "跳至"
+    },
+    {
+        "name": "Data Dam",
+        "translation": "数据大坝"
+    },
+    {
+        "name": "Relay",
+        "translation": "节点"
+    },
+    {
+        "name": "Timer",
+        "translation": "计时器"
+    },
+    {
+        "name": "Trigger",
+        "translation": "计时器"
+    },
+    {
+        "name": "Data Recorder",
+        "translation": "黑盒子"
+    },
+    {
+        "name": "Suirify",
+        "translation": "数据结构最简化"
+    },
+    {
+        "name": "Cluster Input",
+        "translation": "打包输入"
+    },
+    {
+        "name": "Data Input",
+        "translation": "信息输入"
+    },
+    {
+        "name": "Cluster Output",
+        "translation": "打包输出"
+    },
+    {
+        "name": "Data Output",
+        "translation": "信息输出"
+    },
+    {
+        "name": "Fitness Landscape",
+        "translation": "适应度景观"
+    },
+    {
+        "name": "Gene Pool",
+        "translation": "基因库"
+    },
+    {
+        "name": "Galapagos",
+        "translation": "反复试验"
+    }
+]
